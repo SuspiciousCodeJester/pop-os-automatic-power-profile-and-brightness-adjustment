@@ -1,0 +1,1 @@
+# pop-os-automatic-power-profile-and-brightness-adjustment
